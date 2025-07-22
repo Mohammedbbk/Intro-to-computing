@@ -1,4 +1,5 @@
 # Scheme Evaluation Rules Summary (AI generated based on the book)
+
 ## Overview
 This section from "Introduction to Computing" presents the formal evaluation rules for the Scheme programming language, establishing both grammar rules (syntax) and evaluation rules (semantics).
 
